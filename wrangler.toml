@@ -1,10 +1,10 @@
 name = "docker"
 type = "webpack"
-account_id = "your account_id"
+account_id = "3522934357e69cca8c1b8c9a87262173"
 workers_dev = true
 route = ""
 zone_id = ""
 webpack_config = "webpack.config.js"
 kv_namespaces = [
-	 { binding = "HAMMAL_CACHE", id = "you kv id" }
+	 { binding = "HAMMAL_CACHE", id = "a39179e8ca284527b40beeee892bcfde" }
 ]
